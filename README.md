@@ -19,6 +19,7 @@
 </div>
 
  <div>
+  <hr>
   <a href = "carlosvinicios@id.uff.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-vinicios-de-souza-azeredo-3a7896214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
