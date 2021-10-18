@@ -3,7 +3,8 @@
 #### Sou um Estudante de Ciência da Computação
 
 
-- 🌱 Atualmente estudando Java, C# e Desenvolvimento front-end.
+- 🌱  Atualmente estudando C# e Banco de Dados.
+- 📚 Lendo Sobre: Desenvolvimento Ágil de Software & Fundamentos de Bancos De Dados.
 
 <div>
   <a href="https://github.com/CarlosVinicios99">
