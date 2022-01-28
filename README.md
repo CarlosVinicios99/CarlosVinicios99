@@ -3,7 +3,7 @@
 #### Sou um Estudante de Ciência da Computação
 
 
-- 🌱  Atualmente estudando C# e Desenvolvimento Front-end com HTML5 e CSS3.
+- 🌱  Atualmente estudando Banco de Dados, C# e Desenvolvimento Front-end com HTML5, CSS3 e Javascript.
 - 📚 Lendo Sobre: Desenvolvimento Ágil de Software - Clean Code.
 
 <div>
