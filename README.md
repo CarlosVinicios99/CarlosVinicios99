@@ -3,9 +3,6 @@
 #### Sou um Estudante de Ciência da Computação
 
 
-- 🌱  Atualmente estudando Banco de Dados e Java.
-- 📚 Lendo Sobre: Desenvolvimento Ágil de Software - Clean Code.
-
 <div>
   <a href="https://github.com/CarlosVinicios99">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=CarlosVinicios99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
