@@ -1,7 +1,10 @@
 ### Olá, Eu sou o Carlos Vinicios 👋
 
-#### Sou um Estudante de Ciência da Computação
-
+<ul>
+  <li> Estudante de Ciência da Computação
+  <li> Desenvolvedor
+  <li> Atualmente estudando Java e Banco De Dados (SQL e NoSQL)
+</ul>
 
 <div>
   <a href="https://github.com/CarlosVinicios99">
