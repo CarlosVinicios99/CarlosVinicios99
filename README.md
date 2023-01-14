@@ -3,7 +3,7 @@
 <ul>
   <li> Estudante de Ciência da Computação
   <li> Desenvolvedor
-  <li> Atualmente estudando Java e Banco De Dados (SQL e NoSQL)
+  <li> Atualmente estudando Desenvolvimento de APIs com SpringBoot - Java
 </ul>
 
 <div>
