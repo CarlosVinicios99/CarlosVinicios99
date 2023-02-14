@@ -29,7 +29,6 @@
     <img align="center" alt="Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
    <img align="center" alt="webpack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
   <img align="center" alt="Gulp" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/gulp-226000.png?f=avif&w=128">
-  <img align="center" alt="webpack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
   </div>
   <hr>
   <br>
