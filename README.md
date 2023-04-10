@@ -1,4 +1,4 @@
-### Olá, Eu sou o Carlos Vinicios 👋
+### Carlos Vinicios
 
 <ul>
   <li> Estudante de Ciência da Computação
