@@ -3,7 +3,7 @@
 <ul>
   <li> Estudante de Ciência da Computação
   <li> Desenvolvedor
-  <li> Atualmente estudando Javascript e Bibliotecas front-end.
+  <li> Atualmente focado em back-end (Spring, Node, Express, Nest)
 </ul>
 
 <div>
