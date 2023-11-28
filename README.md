@@ -1,7 +1,7 @@
 <h2>Carlos Vinícios</h2> 
 
 <ul>
-  <li> Estudante de Ciência da Computação
+  <li> Cientista da Computação
   <li> Desenvolvedor
   <li> Atualmente focado em back-end (Spring, Node, Express, Nest)
 </ul>
