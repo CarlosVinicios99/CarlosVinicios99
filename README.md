@@ -3,7 +3,6 @@
 <ul>
   <li> Cientista da Computação
   <li> Desenvolvedor
-  <li> Atualmente focado em back-end (Spring, Node, Express, Nest)
 </ul>
 
 <div>
