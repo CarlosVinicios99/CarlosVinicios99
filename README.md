@@ -9,10 +9,9 @@
   <a href="https://github.com/CarlosVinicios99">
   <img height="250em" width=500m src="https://github-readme-stats.vercel.app/api?username=CarlosVinicios99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
   <img height="300em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosVinicios99&layout=compact&langs_count=16&theme=dark"/>
-
 </div>
 
-### Linguagens e Frameworks
+## Linguagens e Frameworks
 <div style = "display: inline_block" > <br>
    <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -31,8 +30,8 @@
   <hr>
   <br>
   
-### Banco De Dados
-<div style = "display: inline_block" > <br>
+## Banco De Dados
+<div style = "display: inline_block"> <br>
    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
    <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"> 
@@ -44,7 +43,7 @@
 <hr>
 <br>
 
-### Outras Ferramentas
+## Outras Ferramentas
 <div style = "display: inline_block" > <br>
  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
