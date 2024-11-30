@@ -49,6 +49,7 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="Postman" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png"> 
    <img align="center" alt="Docker" height="50" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Docker" height="45" width="45" src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans-tall.png">
 </div>
 
  <div>
