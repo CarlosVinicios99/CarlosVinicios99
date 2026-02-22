@@ -1,9 +1,3 @@
-<h2>Carlos Vinícios</h2> 
-
-<ul>
-  <li> Cientista da Computação
-  <li> Desenvolvedor
-</ul>
 
 <div>
   <a href="https://github.com/CarlosVinicios99">
