@@ -1,10 +1,4 @@
 
-<div>
-  <a href="https://github.com/CarlosVinicios99">
-  <img height="250em" width=500m src="https://github-readme-stats.vercel.app/api?username=CarlosVinicios99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
-  <img height="300em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosVinicios99&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
 ## Linguagens e Frameworks
 <div style = "display: inline_block" > <br>
    <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -12,9 +6,9 @@
    <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
    <img align="center" alt="JWT" height="30" width="40" src="https://jwt.io/img/pic_logo.svg">
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-   <img align="center" alt="Node" height="30" width="30" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
+   <img align="center" alt="Node" height="40" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-icon-svg-download-png-1174935.png?f=webp">
   <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Nest" height="30" width="30" src="https://static-00.iconduck.com/assets.00/nestjs-icon-1024x1020-34exj0g6.png">
+  <img align="center" alt="Nest" height="30" width="30" src="https://i.namu.wiki/i/X7RPRZJiL_bDk-b5yfaeCqEaINp3iwm7ngVhzN9LDg4hNjz0Bs3QTo7pgbCfGW3xp_sQZxMGUfnxBAXGNFwGKw.svg">
    <img align="center" alt="GO" height="73" width="36" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
